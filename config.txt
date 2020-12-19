@@ -1,0 +1,6 @@
+[app]
+NAME = rat
+AUTHOR = oTropicalista
+GITHUB = https://github.com/oTropicalista/rat
+DESCRIPTION = File content viewer like "cat" with syntax highlighting, Markdown previewer and support for all the Pygments themes. Using the Rich library.
+VERSION = 0.1
