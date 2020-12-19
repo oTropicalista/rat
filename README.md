@@ -2,7 +2,7 @@
 
 # Rat
 
-![the cats away](https://github.com/oTropicalista/rat/img/img1.png)
+![the cats away](https://github.com/oTropicalista/rat/blob/master/img/img1.png)
 
 ## DESCRIPTION
 File content viewer like "cat" with syntax highlighting, Markdown previewer and support for all the Pygments themes. Using the Rich library.
