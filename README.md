@@ -46,7 +46,7 @@ optional arguments:
 ## Syntax highlight
 
 ## Markdown Previewer
-![opa](https://github.com/oTropicalista/rat/img/img2.png)
+![opa](https://github.com/oTropicalista/rat/blob/master/img/img2.png)
 
 ## Files attributes
 
